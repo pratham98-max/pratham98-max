@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pratham98-max&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pratham98-max&icon=0&color=0)](https://visitcount.itsvg.in)
+(https://github.com/NotArsal/Solar-Customer-Grievance-Management-System)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
