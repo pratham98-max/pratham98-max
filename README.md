@@ -24,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pratham98-max&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-(https://github.com/NotArsal/Solar-Customer-Grievance-Management-System)
+(https://github.com/pratham98-max/MediKiosk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
